@@ -5,7 +5,6 @@ public interface IShape
     double CalculateArea();
 
 }
-
 class Circle : IShape
 {
     public double radius;
